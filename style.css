@@ -1,0 +1,127 @@
+  .formtext{
+    position: relative;
+    display: inline-block;
+    left: 15px;
+    padding: 0 5px;
+    background-color: #fff;
+    top: 11px;
+    z-index: 5;
+    font-family: SFP;
+
+        }
+
+
+
+
+.fielsetcolor{
+    border-color: blue !important;
+    color: blue ;
+}
+
+.yazirengi{
+    color: rgb(8, 64, 155)  ;
+    font-size: 80%;
+    display: inline-block;
+    /* float: left; */
+    margin-right: 15px ;
+
+    
+}
+
+.girisyazirengi{
+    font-size: 90%;
+    display: inline-block;
+    /* float: left; */
+    margin-right: 15px ;
+    font-weight: bold;
+    text-decoration: underline;
+
+    
+}
+
+.buton404{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+.buton404:hover{
+    background-color: #084793;
+    color: white;
+    font-weight: bold;
+}
+
+
+.butonanasayfa{
+    background-color: white;
+    color: #084793;
+    font-weight: bold;
+    border-color: #084793;
+    border-style: solid;
+    border-width: 1px;
+    width: 35%;
+    padding: 10px;
+}
+
+.butonanasayfa:hover{
+    background-color: #084793;
+    border-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
+
+
+.sfprofont{
+    font-family: SFP;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 300%;
+    
+}
+
+.font404{
+    font-family: SFP;
+    font-size: 1000%;
+    color: #084793;
+    
+}
+
+
+
+
+@font-face {
+    font-family: SFP;
+    src: url(fonts/SFPRODISPLAYBOLD.OTF);
+}
+
+
+
+a:link{
+
+    color: red;
+    
+    text-decoration: none;
+    
+    }
+    
+    a:visited {
+    
+    color: red;
+    
+    }
+    
+    a:hover {
+    
+    text-decoration: none;
+    
+    }
+    
+    a:active {
+    
+    color: rgb(250,167,0)
+    
+    }
+
+
